@@ -1,0 +1,15 @@
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\bin\Debug\net10.0\InvetoryItem.exe
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\bin\Debug\net10.0\InvetoryItem.deps.json
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\bin\Debug\net10.0\InvetoryItem.runtimeconfig.json
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\bin\Debug\net10.0\InvetoryItem.dll
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\bin\Debug\net10.0\InvetoryItem.pdb
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.AssemblyInfoInputs.cache
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.AssemblyInfo.cs
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.csproj.CoreCompileInputs.cache
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.sourcelink.json
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.dll
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\refint\InvetoryItem.dll
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.pdb
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\InvetoryItem.genruntimeconfig.cache
+D:\PG TELKOM\Array\InvetoryItem\InvetoryItem\obj\Debug\net10.0\ref\InvetoryItem.dll
